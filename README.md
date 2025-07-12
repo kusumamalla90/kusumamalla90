@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kusuma</h1>
+<h1 align="center">Hi 👋, I'm Kusuma Malla</h1>
 <h3 align="center">💻 Cybersecurity Enthusiast | Ethical Hacker | CTF Learner 🛡️</h3>
 
 ---
